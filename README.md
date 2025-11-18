@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/c7/5e/f1/c75ef15ce65a031b96edf8cd6b6be43a.jpg"/>
+<img align="right" height="250" src="https://i.pinimg.com/736x/c7/5e/f1/c75ef15ce65a031b96edf8cd6b6be43a.jpg"/>
 
 ###
 
@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
