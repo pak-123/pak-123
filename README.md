@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="250" src="https://i.pinimg.com/736x/c7/5e/f1/c75ef15ce65a031b96edf8cd6b6be43a.jpg"/>
+<img align="right" height="180" src="https://i.pinimg.com/736x/c7/5e/f1/c75ef15ce65a031b96edf8cd6b6be43a.jpg"/>
 
 ###
 
@@ -24,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
