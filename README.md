@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAXuO0er8X8Bm1I2dGdWRcbETn4mPlnH0upA&s" height="30" alt="csharp logo"  />
+  <img src="https://www.seekpng.com/png/detail/242-2425341_logo-big2x-sweet-alert-logo-png.png" height="30" alt="csharp logo"  />
 </div>
 
 ###
