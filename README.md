@@ -14,7 +14,7 @@ My name is <b>Anousha</b>, and I'm a passionate <b>Web Developer</b> who loves c
 
 <p align="left">
 ✨ Creating web projects since <b>2024</b> <br>
-📚 Currently learning <b>Laravel</b> and improving my <b>frontend & backend</b> skills <br>
+📚 Currently learning <b>JavaScript</b> and improving my <b>frontend & backend</b> skills <br>
 🎯 Goals: To become a skilled <b>Full-Stack Web Developer</b> <br>
 🎲 Fun fact: I love turning simple ideas into creative digital experiences 😄
 </p>
