@@ -10,7 +10,7 @@ Frontend Developer • SMIT Student • Passionate about Modern Web Development
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;HTML+CSS+JavaScript;Bootstrap+Tailwind+CSS;Firebase+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;HTML+CSS+JavaScript;Bootstrap+Tailwind+CSS;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -43,38 +43,6 @@ Frontend Developer • SMIT Student • Passionate about Modern Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pak-123&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pak-123&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pak-123&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pak-123&theme=tokyonight&margin-w=15"/>
-
 </p>
 
 ---
