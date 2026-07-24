@@ -64,14 +64,6 @@ Collection of JavaScript mini projects focused on DOM manipulation and problem s
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-<img src="[https://raw.githubusercontent.com/pak-123/pak-123/output/github-contribution-grid-snake.svg](https://c.cicube.io/workflowhubs%2F2024-05-01-Platane-snk%2Fsnk-2.svg)" alt="Snake Animation">
-</p>
-
----
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
@@ -90,10 +82,6 @@ Collection of JavaScript mini projects focused on DOM manipulation and problem s
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=pak-123&style=for-the-badge&color=6C63FF"/>
-</p>
-
 <h3 align="center">
-💜 <i>"Consistency turns dreams into reality, one commit at a time."</i>
+⭐ <i>"Consistency turns small efforts into remarkable achievements."</i>
 </h3>
