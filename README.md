@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;Building+Responsive+Websites;HTML+%7C+CSS+%7C+JavaScript;Bootstrap+%7C+Tailwind+CSS;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=03AED2&center=true&vCenter=true&width=750&lines=Frontend+Developer;Building+Responsive+Websites;HTML+%7C+CSS+%7C+JavaScript;Bootstrap+%7C+Tailwind+CSS;Always+Learning+Something+New" />
 </p>
 
 ---
