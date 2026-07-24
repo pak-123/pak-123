@@ -47,18 +47,6 @@ Modern responsive hotel booking website built using HTML, CSS, JavaScript, Boots
 </a>
 
 </td>
-
-<td align="center" width="50%">
-
-### ⚡ JavaScript Projects
-
-Collection of JavaScript mini projects focused on DOM manipulation and problem solving.
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
-</a>
-
-</td>
 </tr>
 </table>
 
