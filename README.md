@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Anousha Nafees</h1>
 
 <p align="center">
-Frontend Developer • SMIT Student • Pakistan 🇵🇰
+Frontend Developer • SMIT Student • Passionate about Modern Web Development
 </p>
 
 <p align="center">
@@ -64,27 +64,10 @@ Collection of JavaScript mini projects focused on DOM manipulation and problem s
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pak-123&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pak-123&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<h2 align="center">🔥 Contribution Streak</h2>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pak-123&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/pak-123/pak-123/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+<img src="[https://raw.githubusercontent.com/pak-123/pak-123/output/github-contribution-grid-snake.svg](https://c.cicube.io/workflowhubs%2F2024-05-01-Platane-snk%2Fsnk-2.svg)" alt="Snake Animation">
 </p>
 
 ---
